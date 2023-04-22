@@ -1,0 +1,11 @@
+Ctrl + Esc = Opens Windows start menu
+Ctrl + Shift + Escape = Opens Task manager
+Ctrl + Alt + Delete = Opens logout menu
+Copy: Ctrl + C.
+Cut: Ctrl + X.
+Paste: Ctrl + V
+Maximize Window: F11 or Windows logo key
+Display and hide the desktop: Windows logo key + D
+Switch between open apps: Alt + Tab.
+Open the Quick Link menu: Windows logo key + X.
+
